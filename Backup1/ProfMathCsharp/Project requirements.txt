@@ -1,0 +1,5 @@
+﻿-build on 
+--movetonext method in profmathclass
+
+-work on transparent bg and moving forms.
+-work on failtimes varibles

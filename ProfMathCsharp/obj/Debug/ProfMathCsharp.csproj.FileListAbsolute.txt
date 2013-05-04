@@ -1,0 +1,15 @@
+D:\Kimana Docs\_PROGRAMMING PROJOS\C#\ProfMathCsharp\ProfMathCsharp\obj\Debug\ResolveAssemblyReference.cache
+D:\Kimana Docs\_PROGRAMMING PROJOS\C#\ProfMathCsharp\ProfMathCsharp\obj\Debug\ProfMathCsharp.About.resources
+D:\Kimana Docs\_PROGRAMMING PROJOS\C#\ProfMathCsharp\ProfMathCsharp\obj\Debug\ProfMathCsharp.AddForm.resources
+D:\Kimana Docs\_PROGRAMMING PROJOS\C#\ProfMathCsharp\ProfMathCsharp\obj\Debug\ProfMathCsharp.DivForm.resources
+D:\Kimana Docs\_PROGRAMMING PROJOS\C#\ProfMathCsharp\ProfMathCsharp\obj\Debug\ProfMathCsharp.MainForm.resources
+D:\Kimana Docs\_PROGRAMMING PROJOS\C#\ProfMathCsharp\ProfMathCsharp\obj\Debug\ProfMathCsharp.MultForm.resources
+D:\Kimana Docs\_PROGRAMMING PROJOS\C#\ProfMathCsharp\ProfMathCsharp\obj\Debug\ProfMathCsharp.Properties.Resources.resources
+D:\Kimana Docs\_PROGRAMMING PROJOS\C#\ProfMathCsharp\ProfMathCsharp\obj\Debug\ProfMathCsharp.Splashcs.resources
+D:\Kimana Docs\_PROGRAMMING PROJOS\C#\ProfMathCsharp\ProfMathCsharp\obj\Debug\ProfMathCsharp.SubtForm.resources
+D:\Kimana Docs\_PROGRAMMING PROJOS\C#\ProfMathCsharp\ProfMathCsharp\bin\Debug\ProfMath.exe
+D:\Kimana Docs\_PROGRAMMING PROJOS\C#\ProfMathCsharp\ProfMathCsharp\bin\Debug\ProfMath.pdb
+D:\Kimana Docs\_PROGRAMMING PROJOS\C#\ProfMathCsharp\ProfMathCsharp\obj\Debug\ProfMath.exe
+D:\Kimana Docs\_PROGRAMMING PROJOS\C#\ProfMathCsharp\ProfMathCsharp\obj\Debug\ProfMath.pdb
+D:\Kimana Docs\_PROGRAMMING PROJOS\C#\ProfMathCsharp\ProfMathCsharp\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Kimana Docs\_PROGRAMMING PROJOS\C#\ProfMathCsharp\ProfMathCsharp\obj\Debug\GenerateResource-ResGen.write.1.tlog

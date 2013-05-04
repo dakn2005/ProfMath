@@ -1,0 +1,25 @@
+/* CSS Document */
+/*REAL SIMPLR CSS*/
+*{margin:0; padding:0;}
+#wrap{margin:10px auto; width:750px;}
+p.user{text-transform:uppercase; font-size:40px; text-align:center;font-weight:bold; padding-left:10px;}
+p.header{color:#999999; font-size:20px;font-family:"Times New Roman", Times, serif }
+a{text-decoration:none;color:#0033FF}
+a:hover{color:#999999;}
+p.simple{
+	text-decoration:underline;
+	}
+tr{
+	text-align:center;
+	}
+tr.head{
+	background:url(btn_silver.png) repeat-x #CCCCCC; font-weight:bold; text-align:center;
+	}
+
+tr.col{
+	background:#CCCCCC;
+	}
+	
+#wrap ul li{ margin-left:30px;}
+
+#footer{ width:750px; margin:4px auto; border-top:1px solid gray; font-size:12px;}
